@@ -1,0 +1,6 @@
+- HEALER: a supporting medic class; low offensive abilities
+ but has high defensive statuses and healing skills.
+...
++ Priest: strong healing abilities; can heal multiple targets
++ Illusionist: lesser healing power but can use support chant Artz
+...

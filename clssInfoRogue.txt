@@ -1,0 +1,4 @@
+- ROGUE: a stealthy, agile class; extremely high speed, but at the same time defensively vulnerable.
+...
++ Ninja: versatile assassin; boosted, well-rounded offensive abilities
++ Trickster: acrobatic dodger; can escape danger in a blink of an eye

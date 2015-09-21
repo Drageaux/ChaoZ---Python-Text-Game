@@ -1,0 +1,4 @@
+- RANGER: a long-ranged class with unparalleled accuracy; high agility and well rounded offensively, but weak defensively
+...
++ Archer: bow user; can use magic to enhance arrows with massive ranged power
++ Gunslinger: gun user; exchanges magic abilities for useful gadgets
